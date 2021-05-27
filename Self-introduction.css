@@ -1,4 +1,4 @@
-@media (max-width: 767px)
+@media (min-width: 768px)
 {
 body {
     background: linear-gradient( -45deg, rgba(0, 180, 255, 0.8), rgba(0, 220, 209, 0.8)),
