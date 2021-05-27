@@ -1,0 +1,178 @@
+@media (max-width: 767px)
+{
+
+body {
+    background: linear-gradient( -45deg, rgba(0, 180, 255, 0.8), rgba(0, 220, 209, 0.8)),
+    url(./JAYMANTRI_15.jpg);
+    background-size: cover;
+    /* background: #00bfff; */
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* header */
+
+.header, .footer {
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.16);
+}
+
+/* .header .vert {
+    color: #A2A2A2;
+    font-size: 45px;
+    font-family: Sinhala MN;
+    font-weight: bold;
+    /* transform: rotate(-90deg); */
+    /* transform-origin: left top; */ 
+
+
+/* .header .para {
+    color: #393939;
+    font-size: 45px;
+    font-family: Sinhala MN;
+    font-weight: bold;
+    /* float: left; */
+
+
+.header .sub{
+    color: #393939;
+    font-size: 20px;
+    font-family: 'Optima', 'Ubuntu', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* name */
+
+.name {
+    text-align: center;
+    margin-top: 40px;
+}
+
+.name img {
+    width: 70%;
+    /* float: left; */
+}
+
+/* profile */
+
+.content {
+    width: 90%;
+    text-align: center;
+}
+
+.content .title {
+    color: #F3FC0D;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Monda', sans-serif;
+    font-style: italic;
+    text-shadow: 3px 3px rgba(243,252,13,0.52);
+}
+
+.info, .cap, .followme {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-family: 'Kiwi Maru', 'Kosugi Maru', sans-serif;
+    text-align: left;
+}
+
+.info {
+    padding-left: 65px;
+}
+
+.subinfo {
+    color: #FFFFFF;
+    font-size: 15px;
+    font-family: 'Kiwi Maru', 'Kosugi Maru', sans-serif;
+    text-align: right;
+}
+
+.band {
+    width: 70%;
+    box-shadow: 3px 3px 6px rgba(0,0,0,0.16);
+}
+
+/* works */
+
+.works {
+    width: 90%;
+}
+
+.cap, .followme {
+    text-align: center;
+}
+
+/* SNS */
+
+.content a {
+    font-family: 'Quicksand', 'Courier Prime', monospace;
+    font-weight: bold;
+    transition: all 0.5s;
+    font-size: 25px;
+    text-align: center;
+}
+
+.content a:hover {
+    background-color: #FFFF44;
+}
+
+.twitter, .insta {
+    width: 60px;
+    height: 60px;
+    border-radius: 20%;
+    display: block;
+    margin: 0 auto;
+}
+
+.insta {
+    margin-top: 60px;
+}
+
+.followme {
+    margin-bottom: 300px;
+}
+
+/* footer */
+
+.footer .end {
+    color: #393939;
+    font-size: 20px;
+    font-family: 'Optima', 'Ubuntu', sans-serif;
+    font-style: italic;
+    text-align: center;
+    font-weight: bold;
+}
+
+.dots {
+    border-width: 0 0 8px;
+    border-style: solid;
+    border-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2 1"><circle fill="hsla(150, 60%, 60%, 0.8)" cx="1" cy="0.5" r="0.5"/></svg>') 0 0 100% repeat;
+    width: 100%;
+  }
+
+/*.footer hr {
+    height: 1px;
+    background-color: black;
+    border: 0; */
+
+/* .footer {
+    text-shadow: 3px 3px 6px rgba(0,0,0,0.16); */
+
+
+/* .footer .vert {
+    color: #A2A2A2;
+    /* font-size: 35px; */
+    /*font-family: Sinhala MN;
+    font-weight: bold;
+    /* float: right; */
+    /* transform: rotate(90deg); */
+    /* transform-origin: right top; */
+
+
+/*.footer .para {
+    color: #393939;
+    /* font-size: 35px; */
+    /*font-family: Sinhala MN;
+    font-weight: bold; */
+
+}
