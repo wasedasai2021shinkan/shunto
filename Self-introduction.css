@@ -1,3 +1,5 @@
+@media screen and (min-width:769px){
+
 body {
     background: linear-gradient( -45deg, rgba(0, 180, 255, 0.8), rgba(0, 220, 209, 0.8)),
     url(./JAYMANTRI_15.jpg);
@@ -175,7 +177,9 @@ body {
     /* font-size: 35px; */
     /*font-family: Sinhala MN;
     font-weight: bold; */
-
+}
+    
+    
 @media screen and (max-width: 768px)
 {
 
