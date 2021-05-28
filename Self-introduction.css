@@ -53,8 +53,11 @@ body {
 
 /* profile */
 
+.contents {
+    display: flex;
+}
+
 .content {
-    float: left;
     width: 33.33333%;
     text-align: center;
 }
@@ -231,8 +234,11 @@ body {
 
 /* profile */
 
-.content {
+.contents {
     display: block;
+}
+
+.content {
     width: 90%;
     text-align: center;
 }
